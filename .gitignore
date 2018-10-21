@@ -1,4 +1,3 @@
 node_modules/
 client/
 server/secrets.js
-server/secrets.js
